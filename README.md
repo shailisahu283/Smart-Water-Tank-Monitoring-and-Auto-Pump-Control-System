@@ -53,25 +53,25 @@ This project is designed to **monitor the water level** in a storage tank using 
 
 ### 1. ✅ System in Safe State Tank Full
 
-![Safe State Full](assets/safe_state.png)
+![Safe State Full](https://github.com/user-attachments/assets/0555bae3-a1a4-4405-a0dc-ca752fc96c3e)
 
 ---
 
 ### 2. ✅ System in Safe State 
 
-![Safe State](assets/safe_state.png)
+![Safe State](https://github.com/user-attachments/assets/213304d7-f619-4411-83a3-17114325767b)
 
 ---
 
 ### 3. 🚨 Low Water Level – Pump ON + Buzzer Active
 
-![low_water_alert](assets/safe_state.png)
+![low_water_alert](https://github.com/user-attachments/assets/75586854-497f-427a-b11c-1f1e7be09859)
 
 ---
 
 ### 4. 🔧 Full Tinkercad Circuit Layout
 
-![Circuit Layout](assets/safe_state.png)
+![Circuit Layout](https://github.com/user-attachments/assets/bc01bb86-4cee-469c-be4f-52ab81efa2b4)
 
 
 ---
@@ -194,8 +194,7 @@ void setLED(String level) {
 
 ## 🔗 Tinkercad Simulation Link
 
-👉 [Click here to open the simulation](https://www.tinkercad.com/)
-*(Replace with your actual Tinkercad project link)*
+👉 [Click here to open the simulation](https://www.tinkercad.com/things/d56eTb9bCVC-intelligent-water-tank-monitoring-and-auto-pump-control-system?sharecode=XLOpoPNToWHLZL4MjqH5tiRE5A-VF-2woUzPixh3Mas)
 
 ---
 
